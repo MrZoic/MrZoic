@@ -1,81 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=mrZoic&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Builder%20•%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F1B0F,100:00FF41&height=230&section=header&text=Mr.Zoic&fontSize=85&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E%20Full-Stack%20Developer%20_%20Builder%20_%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00FF41" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Turning+ideas+into+production-ready+software.;Writing+clean+code.+Solving+hard+problems.;Full-Stack+Development+%7C+AI+%7C+Modern+Web" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+whoami+%3A+Mr.Zoic;%3E+Building+modern+digital+products.;%3E+Turning+ideas+into+production-ready+code.;%3E+Writing+clean+code.+Solving+hard+problems.;%3E+Full-Stack+%7C+AI+%7C+Modern+Web" alt="Typing animation" />
 
 <br>
 
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Coding panda" />
+<!-- 🐼 Main profile panda gif — replace SRC below with the DIRECT .gif link from your share.google/9mPXcwV7Ey17u5cRX -->
+<img height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Coding panda" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Discord-mrZoic-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=mrZoic&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/mrZoic?style=for-the-badge&color=3B82F6&labelColor=black" />
+<img src="https://img.shields.io/badge/STATUS-COMPILING...-00FF41?style=for-the-badge&logo=terminal&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/Discord-mrZoic-00FF41?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=000000" />
 
 </div>
 
 <br>
 
-## 🔵 About Me
+## `$` cat about.md
 
-```yaml
-zoic:
-  role: "Full-Stack Developer"
-  focus: ["Modern Web", "AI Integration", "Product Engineering"]
-  philosophy: "Clean architecture. Great UX. Code that actually works."
-  currently: "Turning ideas into production-ready software"
+```bash
+> initializing profile...
+> name        : Mr.Zoic (aka MrZoic)
+> role        : Full-Stack Developer
+> focus       : [Modern Web, AI Integration, Product Engineering]
+> philosophy  : "Clean architecture. Great UX. Code that actually works."
+> mindset     : ship fast. break less. refactor often.
+> status      : [ONLINE] ready to build
 ```
 
-I'm **Zoic**, a Full-Stack Developer focused on building modern, scalable, and production-ready digital products.
+I'm **Mr.Zoic** — a Full-Stack Developer focused on building modern, scalable, production-ready digital products.
 I work across the entire stack — from polished user interfaces and frontend architecture to backend systems, APIs, and everything in between.
 
 I care about **performance**, **clean architecture**, **good UX**, and writing code that actually works.
 
 <br>
 
-## ⚡ Tech Stack
+## `$` ls tech_stack/
 
 <div align="center">
 
-**Languages**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="48" alt="Lua" title="Lua"/>
-
-<br><br>
-
-**Frontend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" title="React"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
-
-<br><br>
-
-**Backend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" title="Node.js"/>
+<table width="100%">
+<tr><th align="left" width="20%">🗂️ Category</th><th align="left">⚙️ Stack</th></tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" title="Lua"/>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-## 🚀 What I Build
+## `$` ./run --what-i-build.sh
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Full-Stack Applications
 Building complete web products with modern frontend architecture, robust backend systems, APIs, and polished user experiences.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Intelligent Systems
 Building AI-powered tools and integrating intelligent capabilities into practical digital products.
@@ -83,13 +92,13 @@ Building AI-powered tools and integrating intelligent capabilities into practica
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ Modern Web Experiences
 Creating fast, responsive, and highly polished interfaces using modern web technologies.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 Software Engineering
 Designing reliable solutions, solving complex technical problems, and turning concepts into production-ready software.
@@ -100,11 +109,11 @@ Designing reliable solutions, solving complex technical problems, and turning co
 
 <br>
 
-## 💼 Developer Focus
+## `$` grep -r "focus" ./career
 
 <div align="center">
 
-| 🌐 Full-Stack Development | ⚡ Modern Web Tech | 🤖 AI Development | 🎯 Product Engineering |
+| 🌐 Full-Stack Dev | ⚡ Modern Web Tech | 🤖 AI Development | 🎯 Product Engineering |
 |:---:|:---:|:---:|:---:|
 | Building across the entire application stack | Fast, responsive, scalable web experiences | Building & integrating intelligent software | Concept → development → working product |
 
@@ -112,31 +121,25 @@ Designing reliable solutions, solving complex technical problems, and turning co
 
 <br>
 
-## 📊 GitHub Stats
+## `$` ps aux \| grep zoic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrZoic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&rank_icon=github&count_private=true" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrZoic&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" height="175" />
+<!-- 🐼 "Busy" status gif — replace SRC below with the DIRECT .gif link from your share.google/yurPPaHF4vKkZuiFa -->
+<img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Currently busy" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrZoic&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" height="175" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrZoic&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=FFFFFF&hide_border=true" width="95%" />
+**`STATUS: 🟢 busy building something cool`**
 
 </div>
 
 <br>
 
-## 🌐 Connect
+## `$` whoami --connect
 
 <div align="center">
 
 <a href="https://discord.com/users/944936797752934480" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord" />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00FF41&logoColor=black&labelColor=000000&style=for-the-badge" height="40" alt="Discord" />
 </a>
 
 </div>
@@ -145,8 +148,11 @@ Designing reliable solutions, solving complex technical problems, and turning co
 
 <div align="center">
 
-### Thanks for visiting. 🚀
+<!-- 🐼 Footer panda gif — replace SRC below with the DIRECT .gif link from your share.google/6Us2Uft7QBNLRDiye -->
+<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Footer panda" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer" width="100%" />
+### `$ echo "Thanks for visiting."` 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%" />
 
 </div>
