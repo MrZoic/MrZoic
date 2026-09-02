@@ -1,6 +1,38 @@
 <!--
   ═══════════════════════════════════════════════════════════════════════════
-  SETUP — read once, then delete this comment block.
+  SETUP — read once, then delete this com<div align="center">
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  MrZoic // SYSTEM ARCHITECTURE & FULL-STACK ENGINEERING                │
+│  STATUS: ACTIVE [BUILDING PRIVATELY]                                   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+# MrZoic
+### Full-Stack Developer • AI Systems • Product Engineering
+<p align="center">
+  <a href="https://github.com/MrZoic">
+    <img src="https://img.shields.io/badge/GitHub-MrZoic-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/944936797752934480">
+    <img src="https://img.shields.io/badge/Discord-mrZoic-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0a0a0a" alt="Discord" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-000000?style=for-the-badge&logo=terminal&logoColor=00FF41&labelColor=0a0a0a" alt="Focus" />
+</p>
+</div>
+---
+### `> whoami`
+```yaml
+identity : MrZoic
+role     : Full-Stack Developer
+core     : [Modern Web, AI Integration, Backend Architecture, Product Engineering]
+mindset  : "Clean architecture, resilient systems, and software that delivers real value."
+status   : Building privately
+```
+I am a **Full-Stack Developer** focused on engineering complete, production-ready software systems. My work spans the entire development lifecycle — from architecting responsive frontend user interfaces to designing robust backend systems, APIs, and AI integrations.
+I build software with a focus on **clean architecture**, **runtime performance**, **reliable API design**, and **intuitive user experience**.
+---
+### `> technical_focus`
+<table>ment block.
 
   1. Find-and-replace "YOUR_GITHUB_USERNAME" everywhere below with your real
      GitHub username. That's what powers the live stats, streak, trophies,
