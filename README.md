@@ -98,9 +98,10 @@ I’m a **Full-Stack Developer** focused on building modern web applications and
 
 ---
 
-### Open to Collaboration
+### Available for Work
 
-Interested in collaborating with developers and builders on interesting full-stack, AI, and open-source projects. If you value clean architecture and solid execution, feel free to reach out.
+Open to full-stack development and AI engineering opportunities, particularly projects involving modern web applications, backend systems, APIs, and AI-powered products.
+
 
 ---
 
