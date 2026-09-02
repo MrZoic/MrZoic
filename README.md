@@ -94,7 +94,7 @@ I’m a **Full-Stack Developer** focused on building modern web applications and
 
 ### Currently Building
 
-> Building and experimenting with modern full-stack and AI-powered software products privately.
+> Working on ambitious full-stack and AI-powered products, with a focus on scalable architecture, intelligent systems, and polished end-to-end experiences.
 
 ---
 
