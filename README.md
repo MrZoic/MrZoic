@@ -126,7 +126,7 @@ Designing reliable solutions, solving complex technical problems, and turning co
 <div align="center">
 
 <!-- 🐼 "Busy" status gif — replace SRC below with the DIRECT .gif link from your share.google/yurPPaHF4vKkZuiFa -->
-<img height="180" src="https://media.tenor.com/2Yjr16Oe0WkAAAAM/panda-code-coding.gif alt="Currently busy" />
+<img height="180" src="https://media.tenor.com/1cJ8QajuXs0AAAAM/bu-bus.gif alt="Currently busy" />
 
 **`STATUS: 🟢 busy building something cool`**
 
