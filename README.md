@@ -126,7 +126,7 @@ Designing reliable solutions, solving complex technical problems, and turning co
 <div align="center">
 
 <!-- 🐼 "Busy" status gif — replace SRC below with the DIRECT .gif link from your share.google/yurPPaHF4vKkZuiFa -->
-<img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Currently busy" />
+<img height="180" src="https://media.tenor.com/2Yjr16Oe0WkAAAAM/panda-code-coding.gif alt="Currently busy" />
 
 **`STATUS: 🟢 busy building something cool`**
 
@@ -149,7 +149,7 @@ Designing reliable solutions, solving complex technical problems, and turning co
 <div align="center">
 
 <!-- 🐼 Footer panda gif — replace SRC below with the DIRECT .gif link from your share.google/6Us2Uft7QBNLRDiye -->
-<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Footer panda" />
+<img height="150" src="https://media1.tenor.com/m/07QNEgg1BMYAAAAC/bm-computer.gif" alt="Footer panda" />
 
 ### `$ echo "Thanks for visiting."` 🚀
 
